@@ -1,0 +1,3 @@
+lambis -> nikol 123
+mixalis -> mpao 23
+ofi ->     aris 12

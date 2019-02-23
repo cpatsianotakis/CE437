@@ -1,0 +1,7 @@
+Producted by Patsianotakis Charalampos, student of Electrical and Computer Engineering department of University of Thessaly. This shell is made for project of course CE437 "CAD Algorithms 1, Logic Synthesis". Professor of this course is Christos Sotiriou.
+
+Compile: make shell
+
+Clean Exec files: make clean
+
+Execute: ./shell
